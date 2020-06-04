@@ -1,0 +1,17 @@
+#Login credentials
+username: account_267@sapaad.com
+password: abcd123
+
+#CRM - Order data
+CustomerPhNumber: 9047474708
+ReferalName: Zomato
+DeliveryManager: Home Deliveries
+DiverName: UB Transporter
+
+dynamicString: BEVERAGES
+
+
+#Login credential for Sapaad Online
+phone: 9865002189
+online_password: Soundar.24
+delivery_area: Abu Dhabi
